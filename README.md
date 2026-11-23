@@ -1,0 +1,1 @@
+# wb-manager-releases
